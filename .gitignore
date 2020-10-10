@@ -1,5 +1,9 @@
 .git
 .idea
-disaster
+./disaster
 bin
 lib
+share
+lib64
+include
+etc
